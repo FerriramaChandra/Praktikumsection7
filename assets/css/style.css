@@ -1,0 +1,27 @@
+/* body */
+.konten_utama h2{
+    font-weight: normal;
+}
+.gambar_icon{
+    height: 70px;
+    width: 70px;
+}
+.konten2{
+    padding-top: 8rem;
+    margin-bottom: 6rem;
+}
+.gambar_konten2 img{
+    height: 600px;
+}
+/* body */
+
+/* footer */
+.footer div ul li {
+    font-size: 0.75em;
+    font-weight: lighter;
+}
+.footer div p{
+    font-size: 0.75em;
+    font-weight: lighter;
+}
+/* footer */
